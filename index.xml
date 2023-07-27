@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<!-- File name: index.xml 
+
+ Copyright 2021, 2024 5 Mode
+ 
+ This file is part of Shifu Page.
+ 
+ Shifu Page is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ Shifu Page is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.  
+ 
+ You should have received a copy of the GNU General Public License
+ along with Shifu Page. If not, see <https://www.gnu.org/licenses/>.
+
+ index.xml
+  
+ Shifu index file.
+ 
+ @author Daniele Bonini <my25mb@aol.com>
+ @copyrights (c) 2021, 2024, 5 Mode     
+
+-->
+
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+
+<CONTENT>
+	<LINK>
+		<NAME>Daniele</NAME>
+    <GENDER>male</GENDER>
+		<IMAGE>
+		   <ADDRESS>/foto.jpg</ADDRESS>
+		   <WIDTH>145</WIDTH>
+		   <HEIGHT>111</HEIGHT> 
+		</IMAGE>
+		<DESC>Skilled programmer, enjoy coding any kind of web system. Yes embedded system, no apps, no domotic.</DESC>
+    <PROFESSION>web developer</PROFESSION>
+		<TYPE>artisan</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>1</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Marco</NAME>
+    <GENDER>male</GENDER>
+		<IMAGE>
+		   <ADDRESS>/foto.jpg</ADDRESS>
+		   <WIDTH>145</WIDTH>
+		   <HEIGHT>111</HEIGHT> 
+		</IMAGE>
+		<DESC>Skilled electrician, ready to face any problem related to domestic systems. Yes industrial system, yes antennas, no domotic.</DESC>
+    <PROFESSION>electrician</PROFESSION>
+		<TYPE>artisan</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>2</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Vito</NAME>
+    <GENDER>male</GENDER>
+		<IMAGE>
+		   <ADDRESS>/foto.jpg</ADDRESS>
+		   <WIDTH>145</WIDTH>
+		   <HEIGHT>111</HEIGHT> 
+		</IMAGE>
+		<DESC>Skilled builder, from family tradition like to build and mend domestic troubles. Yes restaurants and shops, no water pipes.</DESC>
+    <PROFESSION>builder</PROFESSION>
+		<TYPE>artisan</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>3</INDEX> 
+	</LINK>
+</CONTENT>
