@@ -37,7 +37,7 @@
 	  <HTML>
 	  <HEAD>
 
-      <TITLE>My artisans with desc and contact, ..</TITLE>
+      <TITLE>My artisans page with desc and contact details..</TITLE>
 	  
 	  	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
 		  <meta name="description" content="Welcome to my artisan page!"/>
