@@ -54,7 +54,7 @@
 		   <WIDTH>145</WIDTH>
 		   <HEIGHT>111</HEIGHT> 
 		</IMAGE>
-		<DESC>Skilled electrician, ready to face any problem related to domestic systems. Yes industrial systems, yes antennas, no domotic.</DESC>
+		<DESC>Skilled electrician, ready to face any problem related to domestic systems. Yes industrial systems and antennas, no domotic.</DESC>
     <PROFESSION>electrician</PROFESSION>
 		<TYPE>artisan</TYPE>
 		<URI>https://5md.io/l/whochapp</URI>
@@ -68,7 +68,7 @@
 		   <WIDTH>145</WIDTH>
 		   <HEIGHT>111</HEIGHT> 
 		</IMAGE>
-		<DESC>Skilled builder, from family tradition like to build and mend domestic troubles. Yes restaurants and shops, no water pipes.</DESC>
+		<DESC>Skilled builder, from family tradition he likes to build and mend domestic troubles. Yes restaurants and shops, no water pipes.</DESC>
     <PROFESSION>builder</PROFESSION>
 		<TYPE>artisan</TYPE>
 		<URI>https://5md.io/l/whochapp</URI>
