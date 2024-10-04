@@ -43,7 +43,7 @@
 		<DESC>Skilled programmer, enjoy coding any kind of web system. Yes embedded systems, no apps, no domotic.</DESC>
     <PROFESSION>web developer</PROFESSION>
 		<TYPE>artisan</TYPE>
-		<URI>https://takeyou.to/l/whochapp</URI>
+		<URI>https://takeyou.to/l/wochapp</URI>
 		<INDEX>1</INDEX> 
 	</LINK>
 	<LINK>
@@ -57,7 +57,7 @@
 		<DESC>Skilled electrician, ready to face any problem related to domestic systems. Yes industrial systems and antennas, no domotic.</DESC>
     <PROFESSION>electrician</PROFESSION>
 		<TYPE>artisan</TYPE>
-		<URI>https://takeyou.to/l/whochapp</URI>
+		<URI>https://takeyou.to/l/wochapp</URI>
 		<INDEX>2</INDEX> 
 	</LINK>
 	<LINK>
@@ -71,7 +71,7 @@
 		<DESC>Skilled builder, from family tradition he likes to build and mend domestic troubles. Yes restaurants and shops, no water pipes.</DESC>
     <PROFESSION>builder</PROFESSION>
 		<TYPE>artisan</TYPE>
-		<URI>https://takeyou.to/l/whochapp</URI>
+		<URI>https://takeyou.to/l/wochapp</URI>
 		<INDEX>3</INDEX> 
 	</LINK>
 </CONTENT>
