@@ -66,7 +66,7 @@
 		<div id="content" style="max-height:350px;display:none;" align="center">
 
     <div class="header">
-      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="http://shifu.page" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;vertical-align:middle;"/>&#8201; Shifu Page</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; &#8201;<a id="agithub" href="https://github.com/par7133/Shifu-Page" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; <a id="afeedback" href="mailto:info@shifu.page" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201; &#8201; &#8201; &#8201; &#8201; <a id="asupport" href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201; &#8201; get support&#8201; &#8201; </a>
+      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="http://shifu.mydeeds.org" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;vertical-align:middle;"/>&#8201; Shifu Page</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; &#8201;<a id="agithub" href="https://github.com/par7133/Shifu-Page" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; <a id="afeedback" href="mailto:posta@elettronica.lol" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201; &#8201; &#8201; &#8201; &#8201; <a id="asupport" href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201; &#8201; get support&#8201; &#8201; </a>
     </div>
 
 		<br/><br/><br/><br/><br/>
@@ -205,22 +205,7 @@
 
     ]]>
 		</script>
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-   ym(94456900, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/94456900" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-		  
+	  
 	  </BODY>
 	  </HTML>     	
 	
